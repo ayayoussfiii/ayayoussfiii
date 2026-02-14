@@ -232,18 +232,6 @@
 └─────────────────────────────────────────┘
 ```
 
-</div>
-
----
-
-## 💭 Philosophy
-
-<div align="center">
-
-> *"The best way to predict the future is to create it with AI"*
-
-### Let's build something amazing together! 🚀
-
 
 
 </div>
