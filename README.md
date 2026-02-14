@@ -18,7 +18,6 @@
 
 [![Email](https://img.shields.io/badge/Email-aya.youssfi%40usmba.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aya.youssfi@usmba.ac.ma)
 [![Location](https://img.shields.io/badge/Location-Fes%2C%20Morocco-10B981?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-[![Phone](https://img.shields.io/badge/Phone-%2B212%20669689492-0088cc?style=for-the-badge&logo=phone&logoColor=white)](#)
 
 </div>
 
@@ -35,6 +34,7 @@ class AyaYoussfi:
         self.university = "ENSA Fès"
         self.specialization = ["Artificial Intelligence", "Digital Trust"]
         self.location = "Fes, Morocco"
+        self.interests = ["RAG Systems", "Neural Networks", "Semantic Search"]
         
     def current_focus(self):
         return {
@@ -43,8 +43,20 @@ class AyaYoussfi:
             "exploring": ["NLP", "Computer Vision", "Cybersecurity"]
         }
     
+    def get_tech_stack(self):
+        return {
+            "languages": ["Python", "JavaScript", "PHP"],
+            "ai_ml": ["TensorFlow", "scikit-learn", "Ollama"],
+            "frameworks": ["Flask", "Pandas", "NumPy"],
+            "databases": ["MySQL", "SQL Server"]
+        }
+    
     def life_motto(self):
         return "Transform complexity into clarity, data into decisions 🚀"
+
+# Initialize
+aya = AyaYoussfi()
+print(aya.life_motto())
 ```
 
 ---
