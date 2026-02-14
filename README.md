@@ -216,19 +216,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=10B981&currStreakLabel=C9D1D9)
-
-</div>
-
----
 
 ## 🌟 Current Focus
 
@@ -256,16 +244,6 @@
 
 ### Let's build something amazing together! 🚀
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6366f1&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
 
-</div>
-
----
-
-<div align="center">
-
-### ⭐ From [Aya YOUSSFI](https://github.com/YOUR_GITHUB_USERNAME) with 💜
-
-*Made with passion, powered by innovation*
 
 </div>
