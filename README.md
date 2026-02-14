@@ -25,39 +25,17 @@
 
 ## 🎯 About Me
 
-> *Engineering student passionate about AI, Digital Trust, and creating meaningful technological solutions*
+🎓 **AI Engineering Student** @ ENSA Fès | Specializing in **Artificial Intelligence & Digital Trust**
 
-```python
-class AyaYoussfi:
-    def __init__(self):
-        self.role = "AI Engineering Student"
-        self.university = "ENSA Fès"
-        self.specialization = ["Artificial Intelligence", "Digital Trust"]
-        self.location = "Fes, Morocco"
-        self.interests = ["RAG Systems", "Neural Networks", "Semantic Search"]
-        
-    def current_focus(self):
-        return {
-            "learning": ["RAG Systems", "Neural Networks", "Semantic Search"],
-            "building": ["AI Automation Tools", "ML Pipelines", "Smart Solutions"],
-            "exploring": ["NLP", "Computer Vision", "Cybersecurity"]
-        }
-    
-    def get_tech_stack(self):
-        return {
-            "languages": ["Python", "JavaScript", "PHP"],
-            "ai_ml": ["TensorFlow", "scikit-learn", "Ollama"],
-            "frameworks": ["Flask", "Pandas", "NumPy"],
-            "databases": ["MySQL", "SQL Server"]
-        }
-    
-    def life_motto(self):
-        return "Transform complexity into clarity, data into decisions 🚀"
+💡 **What I Do:**
+- Build RAG systems and semantic search solutions
+- Develop ML pipelines for real-world applications
+- Transform complex data into actionable insights
 
-# Initialize
-aya = AyaYoussfi()
-print(aya.life_motto())
-```
+🔬 **Currently Working On:**
+- Advanced NLP & contextual question-answering
+- AI automation tools
+- Cybersecurity & digital trust solutions
 
 ---
 
