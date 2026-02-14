@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+
+   
 <div align="center">
 
 # ✨ Hi, I'm Aya YOUSSFI ✨
@@ -36,40 +39,6 @@
 - Advanced NLP & contextual question-answering
 - AI automation tools
 - Cybersecurity & digital trust solutions
-
----
-
-## 💼 Professional Experience
-
-### 🏢 ALTEN Delivery Center Morocco
-**AI Engineering Intern** | *Jul 2025 - Aug 2025*
-
-🎯 **Project GIRA** - Full RAG Pipeline Implementation
-
-```
-✓ Built complete RAG pipeline: chunking → embeddings → semantic search
-✓ Developed Python + Flask interface for natural language queries
-✓ Integrated contextual Q&A across multiple document sources
-✓ Evaluated performance: Precision@k, Recall@k metrics
-✓ Impact: Dramatically improved document retrieval speed & accuracy
-```
-
----
-
-## 🎓 Education Journey
-
-```mermaid
-graph LR
-    A[2022<br/>Baccalaureate<br/>🌟 Highest Honors] --> B[2022-2024<br/>Preparatory Classes<br/>ENSA Fès]
-    B --> C[2024-Present<br/>Engineering Cycle<br/>AI & Digital Trust]
-    style A fill:#f0abfc
-    style B fill:#a78bfa
-    style C fill:#6366f1
-```
-
-🎓 **Engineering Cycle** | Computer Science, AI & Digital Trust — *ENSA Fès* (2024-Present)  
-📚 **Integrated Preparatory Classes** — *ENSA Fès* (2022-2024)  
-🏆 **Baccalaureate in Physical Sciences** — *Highest Honors* (2022)
 
 ---
 
