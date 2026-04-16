@@ -1,6 +1,6 @@
 # Aya Youssfi —  Engineering Student
 
-AI Engineering student @ ENSA Fès, specializing in Artificial Intelligence & Digital Trust.
+AI Engineering student @ ENSA Fez, specializing in Artificial Intelligence & Digital Trust.
 I build ML pipelines, RAG systems, and intelligent automation tools.
 
 ---
