@@ -35,4 +35,4 @@ UM6P — Industrial IoT · Oracle — Cloud Infrastructure AI
 
 ---
 
-📍 Fès, Morocco · aya.youssfi@usmba.ac.ma
+Fès, Morocco · aya.youssfi@usmba.ac.ma
