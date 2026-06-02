@@ -158,11 +158,15 @@ Arduino + GPS + ultrasonic sensors · Real-time obstacle detection and haptic fe
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayayoussfiii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4fffb0&icon_color=4fffb0&text_color=c9d1d9)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayayoussfiii&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4fffb0&fire=00d4ff&currStreakLabel=4fffb0&sideLabels=ffffff&dates=8b949e&sideNums=4fffb0)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=ayayoussfiii&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4fffb0&fire=00d4ff&currStreakLabel=4fffb0)
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayayoussfiii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4fffb0&text_color=c9d1d9)
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ayayoussfiii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4fffb0&icon_color=4fffb0&text_color=c9d1d9&include_all_commits=true&count_private=true)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayayoussfiii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4fffb0&text_color=c9d1d9&langs_count=8)
 
 </div>
 
