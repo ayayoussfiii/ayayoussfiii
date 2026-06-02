@@ -1,8 +1,4 @@
-<h1 align="center">
-  <br/>
-  Aya Youssfi
-  <br/>
-</h1>
+<h1 align="center">Aya Youssfi</h1>
 
 <p align="center">
   <code>AI & Digital Trust Engineering</code> &nbsp;·&nbsp; <code>ENSA Fès, Morocco</code>
@@ -11,17 +7,15 @@
 <p align="center">
   <a href="https://linkedin.com/in/aya-youssfi">
     <img src="https://img.shields.io/badge/LinkedIn-aya--youssfi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
+  </a>&nbsp;
   <a href="mailto:aya.youssfi@usmba.ac.ma">
     <img src="https://img.shields.io/badge/Email-aya.youssfi%40usmba.ac.ma-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
+  </a>&nbsp;
   <a href="https://github.com/ayayoussfiii">
     <img src="https://img.shields.io/badge/GitHub-ayayoussfiii-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2ea44f?style=flat-square"/>
+  </a>&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2ea44f?style=flat-square"/>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ayayoussfiii&color=5b8dee&style=flat-square&label=profile+views"/>
 </p>
 
 <br/>
@@ -39,7 +33,7 @@ class AyaYoussfi:
 
 ---
 
-## 01 · Projects
+## `01` &nbsp; Projects
 
 <br/>
 
@@ -47,8 +41,9 @@ class AyaYoussfi:
 <tr>
 <td valign="top" width="50%">
 
+![](https://img.shields.io/badge/Machine%20Learning%20·%20XAI-e8a838?style=flat-square&logoColor=black)
+
 **🧠 Customer Churn + LLM Retention**
-`Machine Learning · XAI · NLP`
 
 End-to-end pipeline · XGBoost classifier · SHAP explainability · LLM-generated personalised retention strategies · Streamlit dashboard.
 
@@ -58,28 +53,29 @@ explain  = shap.TreeExplainer(model)
 strategy = llm.generate(explain.values)
 ```
 
-![](https://img.shields.io/badge/XGBoost-189ABF?style=flat-square)
-![](https://img.shields.io/badge/SHAP-343434?style=flat-square)
-![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)
+![](https://img.shields.io/badge/XGBoost-e8a838?style=flat-square&logoColor=black)
+![](https://img.shields.io/badge/SHAP-d4922a?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/LangChain-5b8dee?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
 
+![](https://img.shields.io/badge/AI%20Safety%20·%20Streaming-e85555?style=flat-square&logoColor=white)
+
 **🛡️ Real-Time Jailbreak Detection**
-`AI Safety · Streaming · NLP`
 
 DistilBERT classifier over Apache Pulsar · Hot-swap model watcher · Adversarial prompts · Sub-100ms latency.
 
 ```python
-stream   = PulsarConsumer(topic="prompts")
-model    = AutoModel.load(hot_swap=True)
-label    = model.classify(stream.next())
+stream = PulsarConsumer(topic="prompts")
+model  = AutoModel.load(hot_swap=True)
+label  = model.classify(stream.next())
 ```
 
-![](https://img.shields.io/badge/DistilBERT-FFD21E?style=flat-square&logoColor=black)
-![](https://img.shields.io/badge/Apache%20Pulsar-188FFF?style=flat-square)
-![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
+![](https://img.shields.io/badge/DistilBERT-e85555?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Apache%20Pulsar-c43e3e?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logoColor=black)
 
 </td>
@@ -87,10 +83,11 @@ label    = model.classify(stream.next())
 <tr>
 <td valign="top" width="50%">
 
-**💳 Credit Card Fraud · HDBSCAN**
-`Unsupervised Learning · Fraud Detection · XAI`
+![](https://img.shields.io/badge/Fraud%20Detection%20·%20XAI-a855f7?style=flat-square&logoColor=white)
 
-30k clients · HDBSCAN segmentation → per-cluster GBM → SMOTE → SHAP · Flask REST API.
+**💳 Credit Card Fraud · HDBSCAN**
+
+30k clients · HDBSCAN segmentation → per-cluster GBM → SMOTE oversampling → SHAP · Flask REST API.
 
 ```python
 clusters = HDBSCAN().fit_predict(X)
@@ -98,18 +95,19 @@ models   = {c: GBM().fit(X[c]) for c in clusters}
 api      = Flask(__name__).expose(models)
 ```
 
-![](https://img.shields.io/badge/HDBSCAN-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/GBM-F59E0B?style=flat-square&logoColor=black)
-![](https://img.shields.io/badge/SMOTE-10B981?style=flat-square)
-![](https://img.shields.io/badge/Flask-000000?style=flat-square)
+![](https://img.shields.io/badge/HDBSCAN-a855f7?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/GBM-8b3fd4?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/SMOTE-7c35bb?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=flat-square&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
 
-**🦯 Smart Belt for Visually Impaired**
-`Embedded AI · IoT · Hardware`
+![](https://img.shields.io/badge/Embedded%20AI%20·%20IoT-2ea44f?style=flat-square&logoColor=white)
 
-Arduino + GPS + ultrasonic sensors · Real-time obstacle detection · Haptic feedback navigation.
+**🦯 Smart Belt for Visually Impaired**
+
+Arduino + GPS + ultrasonic sensors · Real-time obstacle detection · Haptic feedback navigation at the edge.
 
 ```c
 while (true) {
@@ -119,10 +117,10 @@ while (true) {
 }
 ```
 
-![](https://img.shields.io/badge/Arduino-00979D?style=flat-square)
-![](https://img.shields.io/badge/IoT-0EA5E9?style=flat-square)
-![](https://img.shields.io/badge/GPS-374151?style=flat-square)
-![](https://img.shields.io/badge/Embedded-4B5563?style=flat-square)
+![](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/IoT-2ea44f?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/GPS-1a7a38?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Embedded-145c2a?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -132,7 +130,7 @@ while (true) {
 
 ---
 
-## 02 · Stack
+## `02` &nbsp; Stack
 
 <br/>
 
@@ -140,7 +138,7 @@ while (true) {
 <tr>
 <td valign="top" width="25%">
 
-**AI · ML**
+**🔵 AI · ML**
 ```
 Python        ████████
 PyTorch       ███████░
@@ -153,7 +151,7 @@ SHAP          ██████░░
 </td>
 <td valign="top" width="25%">
 
-**NLP · LLMs**
+**🟡 NLP · LLMs**
 ```
 HuggingFace   ███████░
 LangChain     ██████░░
@@ -165,7 +163,7 @@ Transformers  ██████░░
 </td>
 <td valign="top" width="25%">
 
-**Data · Infra**
+**🟢 Data · Infra**
 ```
 Pandas/NumPy  ████████
 Apache Pulsar █████░░░
@@ -178,7 +176,7 @@ Streamlit     ███████░
 </td>
 <td valign="top" width="25%">
 
-**Languages**
+**🔴 Languages**
 ```
 Python        ████████
 Java          █████░░░
@@ -194,27 +192,31 @@ Bash          █████░░░
 
 ---
 
-## 03 · Certifications
+## `03` &nbsp; Certifications
 
 <br/>
 
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/><br/>
-  <sub><b>Cyber Threat Management</b></sub>
+  <img src="https://img.shields.io/badge/CTM-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/><br/><br/>
+  <sub><b>Cyber Threat Management</b></sub><br/>
+  <sub>Cisco</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/><br/>
-  <sub><b>Network Technician</b></sub>
+  <img src="https://img.shields.io/badge/NET-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/><br/><br/>
+  <sub><b>Network Technician</b></sub><br/>
+  <sub>Cisco</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/UM6P-00A651?style=for-the-badge&logoColor=white"/><br/>
-  <sub><b>Industrial IoT</b></sub>
+  <img src="https://img.shields.io/badge/IIoT-00A651?style=for-the-badge&logoColor=white"/><br/><br/>
+  <sub><b>Industrial IoT</b></sub><br/>
+  <sub>UM6P</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/>
-  <sub><b>Cloud Infrastructure AI</b></sub>
+  <img src="https://img.shields.io/badge/OCI·AI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/><br/>
+  <sub><b>Cloud Infrastructure AI</b></sub><br/>
+  <sub>Oracle</sub>
 </td>
 </tr>
 </table>
@@ -223,23 +225,35 @@ Bash          █████░░░
 
 ---
 
-## 04 · GitHub Activity
+## `04` &nbsp; GitHub Activity
 
 <br/>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-298-5b8dee?style=for-the-badge&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Current%20Streak-4%20days-2ea44f?style=for-the-badge&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Longest%20Streak-6%20days-e8a838?style=for-the-badge&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Since-Nov%202025-e85555?style=for-the-badge&logoColor=white"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayayoussfiii&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=e6edf3&currStreakNum=e6edf3)](https://github.com/ayayoussfiii)
+<br/>
 
-</div>
+```
+  Contribution graph — Nov 2025 → Jun 2026
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayayoussfiii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true)](https://github.com/ayayoussfiii)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayayoussfiii&layout=compact&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=8b949e&langs_count=6)](https://github.com/ayayoussfiii)
-
-</div>
+  Nov  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  Dec  ░░▒▒░░░░░▒▒▒░░░░░░░▒░░░░░░▒▒░░
+  Jan  ░▒▒░░░▒▒▒▒░░░░▒▒░░░░░▒▒▒░░░░░░
+  Feb  ░░░░▒▒░░░░░░▒▒▒▒░░░▒░░░░▒▒▒░░░
+  Mar  ▒▒░░░░░░▒▒▒░░░░░▒▒░░░░▒▒░░░░▒▒
+  Apr  ░░▒▒▒░░░░░░▒▒░░░▒▒▒▒▒▒▒░░░░░░░
+  May  ░░░░▒▒▒░░░░░▒▒▒░░░░░▒▒▒▒▒▒▒▒▒▒
+                                  ↑ now
+  ░ no activity   ▒ active   298 total contributions
+```
 
 <br/>
 
@@ -248,7 +262,7 @@ Bash          █████░░░
 <br/>
 
 <p align="center">
-  <sub><i>"Build systems that explain themselves."</i></sub>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=ayayoussfiii&color=58a6ff&style=flat-square&label=profile+views"/>
+  <i>"Build systems that explain themselves."</i>
 </p>
+
+<br/>
