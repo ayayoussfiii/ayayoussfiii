@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,60:0d2a1a,100:0d1117&height=280&section=header&text=Aya%20Youssfi&fontSize=72&fontColor=4fffb0&fontAlignY=42&desc=AI%20%26%20Digital%20Trust%20Engineer%20%C2%B7%20ENSA%20Fès&descAlignY=60&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
-</div>
+
 
 <br/>
 
