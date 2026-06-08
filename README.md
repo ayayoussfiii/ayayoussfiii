@@ -95,10 +95,10 @@ label  = model.classify(stream.next())
 30k clients · HDBSCAN segmentation → per-cluster Gradient Boosting → SMOTE oversampling → SHAP per-cluster explainability · Flask REST API · deployed on Vercel.
 
 ```python
-clusters = HDBSCAN().fit_predict(X)
-models   = {c: GBM().fit(X[c]) for c in clusters}
+clusters  = HDBSCAN().fit_predict(X)
+models    = {c: GBM().fit(X[c]) for c in clusters}
 shap_vals = {c: TreeExplainer(m) for c, m in models}
-api      = Flask().expose(models, shap_vals)
+api       = Flask().expose(models, shap_vals)
 ```
 
 ![](https://img.shields.io/badge/HDBSCAN-a78bfa?style=flat-square)
@@ -138,13 +138,13 @@ app.add_middleware(ResponseAudit)
 
 **📦 RAG Pipeline at ALTEN** *(internship)*
 
-Built a production RAG pipeline with a Flask API during internship at ALTEN. Vector retrieval + LLM-grounded answers over internal documentation.
+Production RAG pipeline with Flask API. Vector retrieval + LLM-grounded answers over internal documentation.
 
 ```python
-embedder   = SentenceTransformer("all-MiniLM-L6-v2")
+embedder    = SentenceTransformer("all-MiniLM-L6-v2")
 vectorstore = Chroma(embedder)
-chain      = RetrievalQA(llm, vectorstore)
-api        = Flask().expose(chain)
+chain       = RetrievalQA(llm, vectorstore)
+api         = Flask().expose(chain)
 ```
 
 ![](https://img.shields.io/badge/LangChain-5b8dee?style=flat-square)
@@ -281,20 +281,15 @@ Bash          █████░░░ 68%
   <img src="https://img.shields.io/badge/Active%20Since-Nov%202025-f59e0b?style=for-the-badge&logoColor=black"/>
 </p>
 
-```
-  Contribution graph · Nov 2025 → Jun 2026
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayayoussfiii&theme=react-dark&hide_border=true&area=true&color=7c6bff&line=7c6bff&point=a78bfa&area_color=7c6bff" width="100%"/>
+</p>
 
-  Nov  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-  Dec  ░░▒▒░░░░░▒▒▒░░░░░░░▒░░░░░░▒▒░░
-  Jan  ░▒▒░░░▒▒▒▒░░░░▒▒░░░░░▒▒▒░░░░░░
-  Feb  ░░░░▒▒░░░░░░▒▒▒▒░░░▒░░░░▒▒▒░░░
-  Mar  ▒▒░░░░░░▒▒▒░░░░░▒▒░░░░▒▒░░░░▒▒
-  Apr  ░░▒▒▒░░░░░░▒▒░░░▒▒▒▒▒▒▒░░░░░░░
-  May  ░░░░▒▒▒░░░░░▒▒▒░░░░░▒▒▒▒▒▒▒▒▒▒
-  Jun  ████░░░░░                ↑ now
-
-  ░ no activity   ▒ active   █ streak   · 298 total contributions
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayayoussfiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=7c6bff&text_color=e2e2f0&ring_color=7c6bff" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayayoussfiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=e2e2f0&langs_count=6" height="160"/>
+</p>
 
 ---
 
