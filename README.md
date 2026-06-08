@@ -286,9 +286,9 @@ Bash          █████░░░ 68%
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayayoussfiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=7c6bff&text_color=e2e2f0&ring_color=7c6bff" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayayoussfiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=7c6bff&text_color=e2e2f0&ring_color=7c6bff&cache_seconds=86400" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayayoussfiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=e2e2f0&langs_count=6" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayayoussfiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=e2e2f0&langs_count=6&cache_seconds=86400" height="160"/>
 </p>
 
 ---
