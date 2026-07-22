@@ -9,7 +9,9 @@
 ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝
 ```
 
-**AI & Digital Trust Engineering · ENSA Fès, Morocco**
+### AI Risk, Explainability & Digital Trust — turning "the model works" into "the model can be trusted, audited, and defended."
+
+**AI & Digital Trust Engineer · ENSA Fès, Morocco**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aya--youssfi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-youssfi)
 [![GitHub](https://img.shields.io/badge/GitHub-ayayoussfiii-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayayoussfiii)
@@ -22,19 +24,40 @@
 
 ---
 
+## `//` Overview
+
+Organizations don't adopt AI because it's accurate — they adopt it because
+they can **defend the decision it made** to a regulator, an auditor, or a
+client. That gap between "the model works" and "the model is trustworthy,
+explainable, and compliant" is exactly where I work.
+
+My projects sit at the intersection of three practices Big 4 risk advisory
+teams care about: **AI governance & explainability** (every prediction comes
+with a SHAP-based audit trail, not a black box), **AI security & adversarial
+resilience** (systems tested against the same attack techniques a red team
+would use, mapped to MITRE ATT&CK), and **control-oriented engineering**
+(layered middleware, logging, and testing — the kind of architecture that
+survives a controls review, not just a demo).
+
 ```python
 class AyaYoussfi:
-    school   = "ENSA Fès — Cycle Ingénieur · AI & Digital Trust (2024–2026)"
-    focus    = ["Explainable AI", "RAG Systems", "AI Safety", "Real-Time ML"]
-    stack    = ["Python", "PyTorch", "LangChain", "Kafka", "SHAP", "Docker", "React"]
-    certs    = ["Oracle OCI AI (in progress)", "Cisco CTM", "Cisco NET", "UM6P IIoT"]
-    looking  = ["Internship", "Research Collaboration", "Open Source"]
-    motto    = "Build systems that explain themselves."
+    profile      = "AI & Digital Trust Engineer — ENSA Fès (2024–2026)"
+    value        = "Bridging AI/ML systems and the governance, risk & control frameworks around them"
+    domains      = ["AI Governance & Explainability (XAI)",
+                     "AI/Cyber Risk & Adversarial Testing",
+                     "Model Risk & Controls Engineering",
+                     "RAG & Applied GenAI"]
+    frameworks   = ["MITRE ATT&CK", "SHAP / XAI", "SMOTE", "Isolation Forest"]
+    stack        = ["Python", "PyTorch", "LangChain", "FastAPI", "Kafka", "Docker"]
+    certifications = ["Oracle OCI Generative AI Professional (in progress)",
+                       "Cisco Cyber Threat Management", "Cisco Networking",
+                       "UM6P Industrial IoT"]
+    seeking      = "Internship in AI Risk Advisory, Technology Risk, or AI Governance"
 ```
 
 ---
 
-## `01` &nbsp; Featured Projects
+## `01` &nbsp; Featured Work — Risk, Governance & Applied AI
 
 <table>
 <tr>
@@ -42,9 +65,15 @@ class AyaYoussfi:
 
 ![](https://img.shields.io/badge/HIDS%20·%20Real--Time%20ML-7c6bff?style=flat-square&logoColor=white)
 
-**🛡️ NetGuard IDS**
+**🛡️ NetGuard IDS — Auditable Intrusion Detection**
 
-Real-time host-based intrusion detection on the **BETH Dataset** (NeurIPS 2021) — 8M+ kernel syscall events from 23 real AWS honeypots. Isolation Forest + XGBoost + SHAP + RAG over MITRE ATT&CK.
+Host-based intrusion detection trained on the **BETH Dataset** (NeurIPS 2021):
+8M+ real kernel syscall events from 23 live AWS honeypots. Built for
+**auditability, not just detection**: every alert is dual-validated —
+Isolation Forest flags the anomaly, XGBoost classifies it, SHAP produces a
+human-readable justification, and a RAG layer maps the alert to the exact
+MITRE ATT&CK technique — the kind of evidence trail a SOC analyst or a
+controls reviewer can actually sign off on.
 
 ```python
 # BETH — 8M+ events · 23 AWS honeypots
@@ -66,9 +95,13 @@ report   = rag.query(mitre_attack, alert)
 
 ![](https://img.shields.io/badge/AI%20Safety%20·%20Streaming-f87171?style=flat-square&logoColor=white)
 
-**⚡ Real-Time Jailbreak Detection**
+**⚡ Real-Time Jailbreak Detection — AI Risk Control Layer**
 
-DistilBERT classifier streamed over Apache Pulsar. Hot-swap model watcher for zero-downtime updates. Adversarial prompt detection at sub-100ms latency.
+A DistilBERT classifier streamed over Apache Pulsar to intercept adversarial
+prompts before they reach a production LLM — sub-100ms, so the control adds
+risk mitigation without adding latency. A hot-swap model watcher lets the
+control be updated as new attack patterns emerge, **without downtime** —
+the same continuous-monitoring logic a GenAI governance framework requires.
 
 ```python
 # streaming adversarial prompt classifier
@@ -90,9 +123,13 @@ label  = model.classify(stream.next())
 
 ![](https://img.shields.io/badge/Fraud%20Detection%20·%20XAI-a78bfa?style=flat-square&logoColor=white)
 
-**💳 Credit Card Fraud · HDBSCAN**
+**💳 Credit Card Fraud · Cluster-Aware XAI**
 
-30k clients · HDBSCAN segmentation → per-cluster Gradient Boosting → SMOTE oversampling → SHAP per-cluster explainability · Flask REST API · deployed on Vercel.
+30k clients segmented with HDBSCAN, then a **dedicated Gradient Boosting
+model per behavioral cluster** — because fraud on a student account and
+fraud on a business account don't look the same, and one global model
+misses both. SMOTE handles the class imbalance; SHAP explains every
+prediction per cluster. Live behind a Flask REST API on Vercel.
 
 ```python
 clusters  = HDBSCAN().fit_predict(X)
@@ -112,9 +149,14 @@ api       = Flask().expose(models, shap_vals)
 
 ![](https://img.shields.io/badge/AI%20Security%20·%20Proxy-38bdf8?style=flat-square&logoColor=white)
 
-**🏭 GuardianAI + ChurnAI**
+**🏭 GuardianAI + ChurnAI — Defense-in-Depth for LLM Deployments**
 
-FastAPI AI security proxy with 3-layer middleware pipeline (auth, prompt filter, response audit). Paired with ChurnAI: XGBoost churn classifier + SHAP + LLM-generated personalised retention strategies.
+A FastAPI security proxy in front of any LLM, built on **defense-in-depth**:
+three independent middleware layers (auth, prompt filtering, response
+auditing) so a single control failure never becomes a full breach — the
+same segregation-of-duties logic used in traditional IT controls, applied
+to AI. Paired with ChurnAI: an XGBoost churn model where every prediction
+comes with an LLM-generated, business-ready retention rationale.
 
 ```python
 app = FastAPI()
@@ -136,9 +178,12 @@ app.add_middleware(ResponseAudit)
 
 ![](https://img.shields.io/badge/RAG%20·%20Flask%20API-22d3a5?style=flat-square&logoColor=black)
 
-**📦 RAG Pipeline at ALTEN** *(internship)*
+**📦 Production RAG Pipeline** *(ALTEN internship)*
 
-Production RAG pipeline with Flask API. Vector retrieval + LLM-grounded answers over internal documentation.
+A retrieval-augmented generation pipeline that took internal documentation
+from "buried in a wiki" to "queryable in natural language" — vector search
+over embedded docs, LLM-grounded answers, served through a Flask API used
+by real internal teams.
 
 ```python
 embedder    = SentenceTransformer("all-MiniLM-L6-v2")
@@ -159,7 +204,9 @@ api         = Flask().expose(chain)
 
 **🦯 Smart Belt for Visually Impaired**
 
-Arduino + GPS + ultrasonic sensors · Real-time obstacle detection · Haptic feedback navigation at the edge · no cloud dependency.
+Real-time obstacle detection at the edge — no cloud dependency, no network
+lag, just Arduino, GPS, and ultrasonic sensors turning distance into haptic
+feedback fast enough to actually matter for someone walking.
 
 ```c
 while (true) {
@@ -294,7 +341,7 @@ Bash          █████░░░ 68%
 ---
 
 <div align="center">
-  <i>"Build systems that explain themselves."</i>
+  <i>"Trust in AI isn't a feature you add at the end — it's a control you design in from the start."</i>
   <br/><br/>
-  <sub>Open to internships · research collaborations · open source · <a href="mailto:aya.youssfi@usmba.ac.ma">aya.youssfi@usmba.ac.ma</a></sub>
+  <sub>Open to internships in AI Risk Advisory / Technology Risk / AI Governance · <a href="mailto:aya.youssfi@usmba.ac.ma">aya.youssfi@usmba.ac.ma</a> · <a href="https://linkedin.com/in/aya-youssfi">LinkedIn</a></sub>
 </div>
