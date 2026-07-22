@@ -1,63 +1,60 @@
 <div align="center">
 
-```
- █████╗ ██╗   ██╗ █████╗     ██╗   ██╗ ██████╗ ██╗   ██╗███████╗███████╗███████╗██╗
-██╔══██╗╚██╗ ██╔╝██╔══██╗    ╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██╔════╝██╔════╝██║
-███████║ ╚████╔╝ ███████║     ╚████╔╝ ██║   ██║██║   ██║███████╗███████╗█████╗  ██║
-██╔══██║  ╚██╔╝  ██╔══██║      ╚██╔╝  ██║   ██║██║   ██║╚════██║╚════██║██╔══╝  ██║
-██║  ██║   ██║   ██║  ██║       ██║   ╚██████╔╝╚██████╔╝███████║███████║██║     ██║
-╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝
-```
+# Aya Youssfi
 
-### AI Risk, Explainability & Digital Trust — turning "the model works" into "the model can be trusted, audited, and defended."
+### AI & Digital Trust Engineer
+**Explainable AI · AI Risk & Adversarial Testing · Model Governance**
 
-**AI & Digital Trust Engineer · ENSA Fès, Morocco**
+*Turning "the model works" into "the model can be trusted, audited, and defended."*
+
+ENSA Fès, Morocco — Cycle Ingénieur, AI & Digital Trust (2024–2026)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aya--youssfi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-youssfi)
 [![GitHub](https://img.shields.io/badge/GitHub-ayayoussfiii-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayayoussfiii)
 [![Email](https://img.shields.io/badge/Email-aya.youssfi%40usmba.ac.ma-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aya.youssfi@usmba.ac.ma)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-22d3a5?style=flat-square)](https://github.com/ayayoussfiii)
 [![Oracle OCI](https://img.shields.io/badge/Oracle%20OCI%20AI-In%20Progress-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/ayayoussfiii)
-[![Views](https://komarev.com/ghpvc/?username=ayayoussfiii&color=7c6bff&style=flat-square&label=profile+views)](https://github.com/ayayoussfiii)
 
 </div>
 
+<br/>
+
 ---
 
-## `//` Overview
+## Professional Summary
 
 Organizations don't adopt AI because it's accurate — they adopt it because
 they can **defend the decision it made** to a regulator, an auditor, or a
 client. That gap between "the model works" and "the model is trustworthy,
 explainable, and compliant" is exactly where I work.
 
-My projects sit at the intersection of three practices Big 4 risk advisory
-teams care about: **AI governance & explainability** (every prediction comes
-with a SHAP-based audit trail, not a black box), **AI security & adversarial
-resilience** (systems tested against the same attack techniques a red team
-would use, mapped to MITRE ATT&CK), and **control-oriented engineering**
-(layered middleware, logging, and testing — the kind of architecture that
-survives a controls review, not just a demo).
+My projects sit at the intersection of three disciplines central to modern
+risk and technology advisory: **AI governance & explainability** (every
+prediction comes with a SHAP-based audit trail, not a black box), **AI
+security & adversarial resilience** (systems tested against real attack
+techniques, mapped to MITRE ATT&CK), and **control-oriented engineering**
+(layered middleware, logging, and testing — architecture built to survive
+a controls review, not just a demo).
 
 ```python
 class AyaYoussfi:
-    profile      = "AI & Digital Trust Engineer — ENSA Fès (2024–2026)"
-    value        = "Bridging AI/ML systems and the governance, risk & control frameworks around them"
-    domains      = ["AI Governance & Explainability (XAI)",
-                     "AI/Cyber Risk & Adversarial Testing",
-                     "Model Risk & Controls Engineering",
-                     "RAG & Applied GenAI"]
-    frameworks   = ["MITRE ATT&CK", "SHAP / XAI", "SMOTE", "Isolation Forest"]
-    stack        = ["Python", "PyTorch", "LangChain", "FastAPI", "Kafka", "Docker"]
+    profile        = "AI & Digital Trust Engineer — ENSA Fès (2024–2026)"
+    value          = "Bridging AI/ML systems with the governance, risk & control frameworks around them"
+    domains        = ["AI Governance & Explainability (XAI)",
+                       "AI & Cyber Risk / Adversarial Testing",
+                       "Model Risk & Controls Engineering",
+                       "RAG & Applied GenAI"]
+    frameworks     = ["MITRE ATT&CK", "SHAP / XAI", "SMOTE", "Isolation Forest"]
+    stack          = ["Python", "PyTorch", "LangChain", "FastAPI", "Kafka", "Docker"]
     certifications = ["Oracle OCI Generative AI Professional (in progress)",
                        "Cisco Cyber Threat Management", "Cisco Networking",
                        "UM6P Industrial IoT"]
-    seeking      = "Internship in AI Risk Advisory, Technology Risk, or AI Governance"
+    seeking        = "Internship in AI Risk Advisory, Technology Risk, or AI Governance"
 ```
 
 ---
 
-## `01` &nbsp; Featured Work — Risk, Governance & Applied AI
+## Featured Work — Risk, Governance & Applied AI
 
 <table>
 <tr>
@@ -228,7 +225,7 @@ while (true) {
 
 ---
 
-## `02` &nbsp; Stack
+## Technical Proficiencies
 
 <table>
 <tr>
@@ -289,7 +286,7 @@ Bash          █████░░░ 68%
 
 ---
 
-## `03` &nbsp; Certifications
+## Certifications
 
 <table>
 <tr>
@@ -318,7 +315,7 @@ Bash          █████░░░ 68%
 
 ---
 
-## `04` &nbsp; GitHub Activity
+## Activity
 
 <p align="center">
   <img src="https://img.shields.io/badge/Contributions-298-7c6bff?style=for-the-badge&logoColor=white"/>
