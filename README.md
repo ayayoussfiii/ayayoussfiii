@@ -2,7 +2,7 @@
 
 # Aya Youssfi
 
-### AI & Digital Trust Engineer
+### AI & Digital Trust Engineering Student
 **Explainable AI · AI Risk & Adversarial Testing · Model Governance**
 
 *Turning "the model works" into "the model can be trusted, audited, and defended."*
