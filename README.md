@@ -7,7 +7,7 @@
 
 *Turning "the model works" into "the model can be trusted, audited, and defended."*
 
-ENSA Fès, Morocco — Cycle Ingénieur, AI & Digital Trust (2024–2026)
+ENSA Fès, Morocco — Cycle Ingénieur, AI & Digital Trust 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aya--youssfi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-youssfi)
 [![GitHub](https://img.shields.io/badge/GitHub-ayayoussfiii-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayayoussfiii)
