@@ -13,7 +13,6 @@ ENSA Fès, Morocco — Cycle Ingénieur, AI & Digital Trust (2024–2026)
 [![GitHub](https://img.shields.io/badge/GitHub-ayayoussfiii-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayayoussfiii)
 [![Email](https://img.shields.io/badge/Email-aya.youssfi%40usmba.ac.ma-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aya.youssfi@usmba.ac.ma)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-22d3a5?style=flat-square)](https://github.com/ayayoussfiii)
-[![Oracle OCI](https://img.shields.io/badge/Oracle%20OCI%20AI-In%20Progress-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/ayayoussfiii)
 
 </div>
 
