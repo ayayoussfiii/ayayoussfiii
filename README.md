@@ -1,50 +1,34 @@
 <div align="center">
 
-# ⚡ Aya Youssfi
+<!-- ANIMATED TYPING HEADER -->
+<a href="https://github.com/ayayoussfiii">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aya+Youssfi+⚡;AI+%26+Digital+Trust+Engineer+🛡️;Securing+the+Future+of+AI+🧠;Turning+Black+Boxes+into+Glass+Boxes+🔍" alt="Typing SVG" />
+</a>
 
-### AI & Digital Trust Engineering Student
-**Explainable AI (XAI) · Adversarial Robustness · Model Governance**
+<p align="center">
+  <em>Bridging the gap between <b>"the model works"</b> and <b>"the model is secure, auditable, and trusted."</b></em>
+</p>
 
-*Turning "the model works" into "the model can be trusted, audited, and defended."*
-
-ENSA Fès, Morocco — Cycle Ingénieur, AI & Digital Trust 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-youssfi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayayoussfiii)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aya.youssfi@usmba.ac.ma)
-[![Status](https://img.shields.io/badge/Status-Open_to_Internships-22d3a5?style=for-the-badge)](https://github.com/ayayoussfiii)
+<!-- CYBER-PUNK SOCIAL BADGES -->
+<a href="https://linkedin.com/in/aya-youssfi"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFCC" /></a>
+<a href="mailto:aya.youssfi@usmba.ac.ma"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFCC" /></a>
+<img src="https://img.shields.io/badge/Status-Open_to_Internships-0D1117?style=for-the-badge&logo=opslevel&logoColor=00FFCC" />
 
 </div>
 
 <br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br/>
 
----
-
-## 🎯 Professional Summary
-
-Organizations don't adopt AI just because it's accurate — they adopt it because they can **defend its decisions** to regulators, auditors, and clients. That critical gap between a proof-of-concept and a *trustworthy, compliant system* is exactly where I operate.
-
-My work sits at the intersection of three core disciplines:
-*   **AI Governance & Explainability:** Replacing black boxes with SHAP-based audit trails.
-*   **AI Security & Adversarial Resilience:** Stress-testing models against MITRE ATT&CK vectors.
-*   **Control-Oriented Engineering:** Building middleware, logging, and architectures that survive compliance reviews, not just demos.
+### ▓▒░ SYSTEM OVERVIEW ░▒▓
 
 ```python
-from pydantic import BaseModel
-from typing import List
+class DigitalTrustEngineer:
+    def __init__(self):
+        self.name = "Aya Youssfi"
+        self.location = "ENSA Fès, Morocco"
+        self.focus = ["AI Governance", "Adversarial Resilience", "Model Auditing"]
+        self.mission = "Engineering controls to survive compliance reviews, not just demos."
 
-class AyaYoussfi(BaseModel):
-    role: str = "AI & Digital Trust Engineer"
-    education: str = "ENSA Fès (2024–2026)"
-    mission: str = "Bridging ML systems with governance, risk & control frameworks"
-    domains: List[str] = [
-        "AI Governance & XAI", 
-        "Model Risk & Controls", 
-        "Adversarial Testing",
-        "Applied GenAI & RAG"
-    ]
-    core_stack: List[str] = ["Python", "PyTorch", "LangChain", "FastAPI", "Kafka", "Docker"]
-    availability: str = "Seeking Internships in AI Risk Advisory or Technology Risk"
-
-# Initialize profile
-me = AyaYoussfi()
+    def execute_protocol(self):
+        return "Replacing black-box AI with SHAP-backed, MITRE-mapped defense layers."
