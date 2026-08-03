@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- RETRO ARCADE HEADER -->
@@ -133,18 +132,28 @@
 ## 💾 〉SAVE_STATE_DATA (TELEMETRY)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayayoussfiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFCC&icon_color=00FFCC&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayayoussfiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFCC&text_color=c9d1d9" height="170" />
+  <code>> SYSTEM_ALERT: Fetching live telemetry data... [ OK ]</code>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayayoussfiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFCC&icon_color=00FFCC&text_color=c9d1d9&border_radius=10" height="170" alt="Player Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayayoussfiii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFCC&text_color=c9d1d9&border_radius=10" height="170" alt="Inventory Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayayoussfiii&theme=tokyo-night&hide_border=true&area=true&color=00FFCC&line=00FFCC&point=FFFFFF&area_color=00FFCC&bg_color=0d1117" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayayoussfiii&theme=tokyo-night&hide_border=true&area=true&color=00FFCC&line=00FFCC&point=FFFFFF&area_color=00FFCC&bg_color=0d1117&border_radius=10" width="100%" alt="Activity Graph" />
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
-  <p><b>[ PRESS <a href="mailto:aya.youssfi@usmba.ac.ma" style="color:#00FFCC;">HERE</a> TO INITIATE CO-OP MODE (INTERNSHIP) ]</b></p>
+  <h2>
+    <a href="mailto:aya.youssfi@usmba.ac.ma" target="_blank">
+      <img src="https://img.shields.io/badge/▶️_PRESS_HERE_TO_INITIATE_CO--OP_MODE_(INTERNSHIP)-00FFCC?style=for-the-badge&logo=minutemailer&logoColor=black&labelColor=00FFCC&color=00FFCC" alt="Initiate Co-op Mode" />
+    </a>
+  </h2>
+  <code>> Waiting for Player 2 to join... ⏳</code>
 </div>
