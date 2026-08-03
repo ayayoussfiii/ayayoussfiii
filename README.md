@@ -2,7 +2,7 @@
 
 <!-- RETRO ARCADE HEADER -->
 <a href="https://github.com/ayayoussfiii">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=100&lines=INSERT+COIN+TO+START...;PLAYER+1:+AYA+YOUSSFI;CLASS:+AI+%26+DIGITAL+TRUST+ENGINEER;LVL:+CYCLE+ING%C3%89NIEUR+ENSA;PRESS+START+TO+CONTINUE... " alt="Retro Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=100&lines=INSERT+COIN+TO+START...;PLAYER+1:+AYA+YOUSSFI;CLASS:+AI+%26+DIGITAL+TRUST+ENGINEER;LVL:+CYCLE+ING%C3%89NIEUR+ENSA;PRESS+START+TO+CONTINUE..." alt="Retro Typing SVG" />
 </a>
 
 <br>
