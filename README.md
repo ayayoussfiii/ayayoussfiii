@@ -108,7 +108,7 @@
 <tr>
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/TROPHY-GEN_AI_PROFESSIONAL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/>
-  <sub>Oracle (In Progress)</sub>
+  <sub>Oracle </sub>
 </td>
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/TROPHY-CYBER_THREAT_MNGT-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/><br/>
