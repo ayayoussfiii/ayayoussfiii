@@ -132,7 +132,7 @@
 ## 💾 〉SAVE_STATE_DATA (TELEMETRY)
 
 <div align="center">
-  <code>> SYSTEM_ALERT: Fetching live telemetry data... [ OK ]</code>
+  <code>> SYSTEM_ALERT: Fetching live telemetry data...... [ OK ]</code>
 </div>
 <br>
 
