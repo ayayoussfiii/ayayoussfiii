@@ -16,7 +16,7 @@
 
 </div>
 
-## 👾 〉CHARACTER_INFO
+##  〉CHARACTER_INFO
 
 > **STATUS:** READY 🟢 | **GUILD:** ENSA Fès | **ROLE:** Defender of the AI Realm
 > 
