@@ -26,7 +26,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📊 〉ATTRIBUTES & STATS
+###  〉ATTRIBUTES & STATS
 
 | STAT | LEVEL | DOMAIN |
 | :--- | :---: | :--- |
