@@ -38,7 +38,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🎒 〉EQUIPPED_INVENTORY
+###  〉EQUIPPED_INVENTORY
 
 **[ WEAPONS: CORE ML ]**
 <br>
