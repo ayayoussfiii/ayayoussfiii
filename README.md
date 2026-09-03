@@ -144,7 +144,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/rainbow-lines/master/lines/rainbow.png" width="100%" alt="Separator" />
 </div>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayayoussfiii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFCC&icon_color=00FFCC&text_color=c9d1d9&border_radius=10" height="170" alt="GitHub Stats" />
