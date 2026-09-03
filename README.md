@@ -24,7 +24,7 @@
 
 </div>
 
-## 📌 Executive Summary
+##  Executive Summary
 
 > **AI & Digital Trust Engineer | ENSA Fès**
 > 
