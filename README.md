@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Core Competencies & Tech Stack
+##  Core Competencies & Tech Stack
 
 <table width="100%">
 <tr>
