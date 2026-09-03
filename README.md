@@ -2,7 +2,7 @@
 
 <!-- PROFESSIONAL TYPING SVG HEADER -->
 <a href="https://github.com/ayayoussfiii">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=850&height=80&lines=Aya+Youssfi;AI+%26+Digital+Trust+Engineer;Final-Year+Engineering+Student+%40+ENSA+F%C3%A8s;Securing+Intelligent+%26+Resilient+Systems..." alt="Aya Youssfi Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=850&height=80&lines=Aya+Youssfi;AI+%26+Digital+Trust+Engineer;Final-Year+Engineering+Student+%40+ENSA+F%C3%A8s;Securing+Intelligent+%26+Resilient+Systems..." alt="Aya YOUSSFI Header" />
 </a>
 
 <br>
