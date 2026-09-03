@@ -47,7 +47,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🧰 Engineering Toolkit
+###  Engineering Toolkit
 
 **Languages & ML Frameworks:**
 <br>
