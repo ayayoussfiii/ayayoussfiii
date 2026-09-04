@@ -46,7 +46,7 @@
 * **Explainable AI (XAI):** SHAP, LIME, Model Auditing & Governance, Feature Attribution.
 * **Data & Model Security:** Differential Privacy, Model Watermarking, Secure Inference Pipelines.
 
-### 📊 Machine Learning & Analytics
+### Machine Learning & Analytics
 * **Deep Learning & NLP:** Transformer Fine-Tuning (DistilBERT), Anomaly Detection, Isolation Forests.
 * **Class Imbalance & Clustering:** HDBSCAN, SMOTE, XGBoost, Random Forests.
 
