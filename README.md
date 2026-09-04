@@ -89,7 +89,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ NetGuard IDS</h3>
+      <h3> NetGuard IDS</h3>
       <b>Focus:</b> Auditable Intrusion Detection System<br><br>
       <b>Architecture:</b> Real-time pipeline processing 8M+ events from the BETH dataset. Features Isolation Forest for unsupervised anomaly detection, XGBoost for multi-class threat classification, and SHAP integration to output human-readable audit trails for SOC analysts.<br><br>
       <code>Apache Kafka</code> <code>MITRE ATT&CK</code> <code>SHAP</code> <code>XGBoost</code>
