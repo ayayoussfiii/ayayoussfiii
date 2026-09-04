@@ -121,7 +121,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a447-11eb-8408-c2b4d7f0e24f.gif" width="100%" alt="Separator" />
 </div>
 
-## 📜 Professional Certifications
+## Professional Certifications
 
 <table align="center" width="100%">
 <tr>
