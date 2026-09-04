@@ -95,7 +95,7 @@
       <code>Apache Kafka</code> <code>MITRE ATT&CK</code> <code>SHAP</code> <code>XGBoost</code>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Jailbreak Sentinel</h3>
+      <h3>Jailbreak Sentinel</h3>
       <b>Focus:</b> Sub-100ms LLM Guardrail Proxy<br><br>
       <b>Architecture:</b> Enterprise-grade inference proxy leveraging a fine-tuned DistilBERT engine hosted on Apache Pulsar. Intercepts incoming prompts in real-time to prevent jailbreaks, system prompt leakage, and indirect injection attacks.<br><br>
       <code>PyTorch</code> <code>Apache Pulsar</code> <code>DistilBERT</code> <code>LLM Security</code>
