@@ -41,7 +41,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ AI Security & Resilience
+### AI Security & Resilience
 * **Adversarial Robustness:** Prompt Injection Defense, Jailbreak Mitigation, Adversarial Training.
 * **Explainable AI (XAI):** SHAP, LIME, Model Auditing & Governance, Feature Attribution.
 * **Data & Model Security:** Differential Privacy, Model Watermarking, Secure Inference Pipelines.
