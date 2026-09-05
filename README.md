@@ -103,7 +103,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 Cluster-Aware XAI Fraud Engine</h3>
+      <h3>Cluster-Aware XAI Fraud Engine</h3>
       <b>Focus:</b> Segmented Financial Anomaly Detection<br><br>
       <b>Architecture:</b> High-precision fraud engine clustering 30k+ financial transactions using HDBSCAN. Trains cluster-specific Gradient Boosting models and balances skewed data distributions via SMOTE.<br><br>
       <code>HDBSCAN</code> <code>SMOTE</code> <code>Gradient Boosting</code> <code>Flask</code>
