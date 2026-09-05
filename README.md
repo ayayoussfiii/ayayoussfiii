@@ -35,7 +35,7 @@
 
 ---
 
-## ⚡ Technical Core & Engineering Stack
+##  Technical Core & Engineering Stack
 
 <table width="100%">
 <tr>
