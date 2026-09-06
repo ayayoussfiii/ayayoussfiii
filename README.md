@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Bannière Vert/Cyan -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00e6a8&height=200&text=AYA%20YOUSSFI&fontSize=60&fontColor=ffffff&fontAlignY=50" width="100%" />
+  <!-- Bannière avec fond noir et texte cyan (Thème Terminal) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&text=AYA%20YOUSSFI&fontSize=60&fontColor=00e6a8&fontAlignY=50" width="100%" />
 
   <br />
   <br />
 
-  <!-- Sous-titre en couleur (Largeur augmentée à 800 pour ne pas couper le texte) -->
+  <!-- Sous-titre aligné avec la bonne largeur -->
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=22&color=00e6a8&center=true&vCenter=true&width=800&lines=%3E_AI+%26+Digital+Trust+Engineer&repeat=false" alt="AI & Digital Trust Engineer" />
 
 </div>
 
-<!-- Bloc Terminal -->
-```text
+<!-- Bloc Terminal avec coloration syntaxique Bash -->
+```bash
 [sys_admin@ENSA-FES ~]$ ./init_ai_trust_matrix.sh --user="Recruiter"
 
             [+] INITIALIZING AI & DIGITAL TRUST TERMINAL...
