@@ -1,14 +1,13 @@
 <div align="center">
 
-  <!-- Banner avec dégradé vert/bleu -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b894,00cec9&height=200&section=header&text=AYA%20YOUSSFI&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%" />
+  <!-- Bannière Vert/Cyan -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00e6a8&height=200&text=AYA%20YOUSSFI&fontSize=60&fontColor=ffffff&fontAlignY=50" width="100%" />
 
   <br />
+  <br />
 
-  <!-- Sous-titre vert -->
-  <h3 align="center">
-    <font color="#00ffcc"><code>&gt;_AI &amp; Digital Trust Engineer</code></font>
-  </h3>
+  <!-- Sous-titre en couleur (Généré en image SVG avec un petit effet machine à écrire terminal) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=22&color=00e6a8&center=true&vCenter=true&width=600&lines=%3E_AI+%26+Digital+Trust+Engineer&repeat=false" alt="AI & Digital Trust Engineer" />
 
 </div>
 
