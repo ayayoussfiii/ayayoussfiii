@@ -6,8 +6,8 @@
   <br />
   <br />
 
-  <!-- Sous-titre en couleur (Généré en image SVG avec un petit effet machine à écrire terminal) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=22&color=00e6a8&center=true&vCenter=true&width=600&lines=%3E_AI+%26+Digital+Trust+Engineer&repeat=false" alt="AI & Digital Trust Engineer" />
+  <!-- Sous-titre en couleur (Largeur augmentée à 800 pour ne pas couper le texte) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=22&color=00e6a8&center=true&vCenter=true&width=800&lines=%3E_AI+%26+Digital+Trust+Engineer&repeat=false" alt="AI & Digital Trust Engineer" />
 
 </div>
 
